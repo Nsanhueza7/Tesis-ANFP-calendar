@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "file": "default",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "0-0",
+      "simetric_localies": true,
+      "breaks": 1
+    },
+    {
+      "file": "azerbaijan_8",
+      "allow_4_continue": false,
+      "allow_3_continue": true,
+      "localies_in_pattern": "2-5",
+      "simetric_localies": false,
+      "breaks": 2
+    },
+    {
+      "file": "suiza_10",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-6",
+      "simetric_localies": false,
+      "breaks": 2
+    },
+    {
+      "file": "azerbaijan_8_20-21",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "3-4",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "azerbaijan_9_21-22",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "3-6",
+      "simetric_localies": false,
+      "breaks": 2
+    },
+    {
+      "file": "azerbaijan_10_22-23",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "albania_10_20-21",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "albania_10_21-22",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "albania_10_22-23",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "armenia_10_22-23",
+      "allow_4_continue": true,
+      "allow_3_continue": true,
+      "localies_in_pattern": "0-10",
+      "simetric_localies": false,
+      "breaks": 10
+    },
+    {
+      "file": "croatia_10_20-21",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "croatia_10_21-22",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "croatia_10_22-23",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "suiza_10_20-21",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "suiza_10_21-22",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "suiza_10_22-23",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "4-5",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "bosnia_12_20-21",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "5-6",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "bosnia_12_21-22",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "5-6",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "bosnia_12_22-23",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "5-6",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "hungria_12_21-22",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "5-6",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "hungria_12_22-23",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "5-6",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "islandia_12",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "1-10",
+      "simetric_localies": false,
+      "breaks": 10
+    },
+    {
+      "file": "inglaterra_20_22-23",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "9-10",
+      "simetric_localies": false,
+      "breaks": 2
+    },
+    {
+      "file": "paraguay_12",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "5-6",
+      "simetric_localies": false,
+      "breaks": 1
+    },
+    {
+      "file": "grecia_14",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "6-7",
+      "simetric_localies": false,
+      "breaks": 2
+    },
+    {
+      "file": "chile_16",
+      "allow_4_continue": false,
+      "allow_3_continue": false,
+      "localies_in_pattern": "7-8",
+      "simetric_localies": false,
+      "breaks": 2
+    }
+  ]
+}

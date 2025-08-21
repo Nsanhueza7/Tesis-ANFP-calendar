@@ -2,8 +2,6 @@
 
 Modelo computacional de optimización del calendario deportivo ANFP.
 
-[link](https://www.overleaf.com/3672921821bbsqnmywpbyj) modelo en pdf.
-
 ## Requerimientos
 
 - Python 3.10
